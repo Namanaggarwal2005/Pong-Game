@@ -1,4 +1,12 @@
-# Pong-Game
+# Pong Game 🏓
+A simple Pong game built using Python.
+
+## Features
+- Ball movement and collision
+- Paddle control
+- Score tracking
+
+
 A classic Pong game built in Python using the TURTLE GRAPHICS LIBRARY . This project was created as part of Angela Yu’s 100 Days of Code: The Complete Python Pro Bootcamp.
 1. Ball Module :
    - Inheritance:
@@ -60,5 +68,8 @@ A classic Pong game built in Python using the TURTLE GRAPHICS LIBRARY . This pro
         - Paddle Collision: Ball bounces horizontally when hitting a paddle.
         - Missed Hit: If the ball passes a paddle, the opponent scores a point, the ball resets to center, and speed slightly increases.
 
-
+## How to Run
+```bash
+python main.py
+```
 
